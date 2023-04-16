@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     fun myfunfufn(){
     println("hello bitches")
+    println("what are you doing motherfucker")
     }
 
 
