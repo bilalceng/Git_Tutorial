@@ -15,4 +15,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun myEmpty(){
+
+    }
+
 }
