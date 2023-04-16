@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
         println("this the first commit")
     }
 
+    fun empty(name: String?){
+
+    }
 
 }
